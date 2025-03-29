@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/633454846083476337/5a0c90811c79402cb8af23528eb4a66c/artifacts
+end_time: 1743261609221
+entry_point_name: ''
+experiment_id: '633454846083476337'
+lifecycle_stage: active
+run_id: 5a0c90811c79402cb8af23528eb4a66c
+run_name: abrasive-wolf-413
+run_uuid: 5a0c90811c79402cb8af23528eb4a66c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743261606573
+status: 3
+tags: []
+user_id: namlabs

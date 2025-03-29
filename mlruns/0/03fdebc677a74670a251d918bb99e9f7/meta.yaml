@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/03fdebc677a74670a251d918bb99e9f7/artifacts
+end_time: 1743257747206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03fdebc677a74670a251d918bb99e9f7
+run_name: entertaining-koi-665
+run_uuid: 03fdebc677a74670a251d918bb99e9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743257747188
+status: 3
+tags: []
+user_id: namlabs

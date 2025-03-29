@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/783a52f6bfa84428a95c3c6f2fccd9bd/artifacts
+end_time: 1743259821303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 783a52f6bfa84428a95c3c6f2fccd9bd
+run_name: learned-squid-645
+run_uuid: 783a52f6bfa84428a95c3c6f2fccd9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743259818825
+status: 3
+tags: []
+user_id: namlabs
